@@ -2,8 +2,8 @@ import OneSignal from "react-native-onesignal";
 
 export function tagUserInfoCreate() {
     OneSignal.sendTags({
-        'user_name': 'Cristiano',
-        'user_email': 'alchaarcristiano@gmail.com'
+        'user_name': 'userName',
+        'user_email': 'userEmail@email.com'
     });
 }
 
