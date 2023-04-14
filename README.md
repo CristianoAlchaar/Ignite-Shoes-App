@@ -52,7 +52,7 @@ Here are some screenshots of the project:
     <h2 style="margin-top: 50px">Product</h2>
     <img src="./.github/product.jpg" height=600 alt="Product Page">
     <h2 style="margin-top: 50px">Chart</h2>
-    <img src="./.github/chart.jpg" height=600 alt="Chart>
+    <img src="./.github/chart.jpg" height=600 alt="Chart">
     
 </details>
 
